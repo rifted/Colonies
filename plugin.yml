@@ -1,0 +1,6 @@
+name: Colonies
+version: 0.0.1
+description: Change the way you play minecraft. Take control, build an empire and rule the world!
+author: Riftes
+website: http://gravirift.com/riftes
+main: com.gravirift.riftes.colonies.ColoniesMain
